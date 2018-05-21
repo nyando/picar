@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PiCarControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="conn_error">Connection to PiCar Server failed.</string>
+    <string name="command_error">Sending command to PiCar failed.</string>
+    <string name="connection_needed">The app is not connected to a server.</string>
+</resources>
